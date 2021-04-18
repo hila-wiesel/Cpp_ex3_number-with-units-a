@@ -1,0 +1,2 @@
+1 smile = 10 happiness
+1 happiness = 100 health
